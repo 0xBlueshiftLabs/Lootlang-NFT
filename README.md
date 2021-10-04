@@ -9,6 +9,8 @@
 
 An on-chain word generation algorithm trained using a large body of English literature, and refined by the community.
 
+NFT images and metadata are generated on chain.
+
 To enable the community to influence the language, a 5 day event was held on [Discord](https://discord.com/invite/Tcvu7h3Xte), where members invented new and fengluminous words. There was only one rule: every sentence spoken had to include an invented word. A bot listened, tracked word popularity, discarded real words (including common slang), and then used these words to adjust the language model.
 
 The final algorithm was permanantly enshrined in the Lootlang contract upon deployment. Every single Lootlang word will be dynamically generated at the time of mint, so even we can't predict what will show up.

@@ -5,7 +5,7 @@
 
 
 
-# [Lootlang](https://lootlang.com/)
+
 
 <p align="center">
   <img width="415" height="157" src="/lootlang-banner.png">

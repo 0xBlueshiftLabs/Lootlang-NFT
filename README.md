@@ -7,6 +7,10 @@
 
 # [Lootlang](https://lootlang.com/)
 
+<p align="center">
+  <img width="415" height="157" src="/NFTBOY banner.png">
+</p>
+
 An on-chain word generation algorithm trained using a large body of English literature, and refined by the community.
 
 NFT images and metadata are generated on chain.
